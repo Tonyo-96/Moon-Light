@@ -139,3 +139,16 @@ section img#mountains_front {
   font-size: 1.2em;
   color: #fff;
 }
+
+@media (max-width: 990px) {
+  header {
+    width: 80%;
+    margin: 0;
+    top: 0;
+  }
+
+  .sec h2 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+  }
+}
